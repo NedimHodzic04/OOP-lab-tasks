@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="957ee063-307e-4812-8071-0f6ed1e728e2" name="Changes" comment="Lab tasks">
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/DbTask1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/DbTask1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/DbTask1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/DbTask1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/DbTask1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/DbTask1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/DbTask1/src/main/java/org/example/DataStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3tasks/DataStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week4/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DataStructures.executor": "Run",
+    "Application.DatabaseManagerCustom.executor": "Run",
+    "Application.DbConnect.executor": "Run",
+    "Application.Excercise1.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task10.executor": "Run",
     "Application.Task2.executor": "Run",
@@ -66,18 +71,19 @@
     "Application.Task7calculator.executor": "Run",
     "Application.Task8.executor": "Run",
     "Application.Task9.executor": "Run",
+    "Application.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nhodz/IdeaProjects/OOP - labs/Week 1/src/Task6.java",
+    "last_opened_file_path": "C:/Users/nhodz/IdeaProjects/OOP lab tasks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,7 +104,13 @@
       <option name="presentableId" value="Default" />
       <updated>1727716124357</updated>
       <workItem from="1727716125433" duration="1061000" />
-      <workItem from="1728483852046" duration="4255000" />
+      <workItem from="1728483852046" duration="4345000" />
+      <workItem from="1729195094343" duration="938000" />
+      <workItem from="1729274705310" duration="70000" />
+      <workItem from="1729276978590" duration="1583000" />
+      <workItem from="1729330472963" duration="3460000" />
+      <workItem from="1729417087510" duration="3554000" />
+      <workItem from="1729519252699" duration="4661000" />
     </task>
     <task id="LOCAL-00001" summary="Lab tasks">
       <option name="closed" value="true" />
@@ -124,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728484020003</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab tasks">
+      <option name="closed" value="true" />
+      <created>1728489926046</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728489926046</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
